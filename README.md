@@ -1,4 +1,4 @@
-# CodeMinSwap
+
 public class HelloWorld{
 
 public static void minimumBribes(int[] q) {
